@@ -58,4 +58,4 @@ To deliver an interactive visual tool that:
 ## Screenshots / Demos
 
 Include a screenshot of the dashboard here showing the current weather card, forecast strip, air quality panel, and chance-of-rain section.
-  
+ ![Dashboard Preview](https://github.com/RudraPratapSingh10/Weather-Application-Dashboard-/blob/main/Dashboard.png)
